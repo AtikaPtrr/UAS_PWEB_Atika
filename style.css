@@ -1,0 +1,18 @@
+.item {
+  background: #f48fb1;
+  text-align: center;
+  min-height: 350px;
+  padding: 40px;
+}
+.gambar {
+  width: 300px;
+  height: 150px;
+}
+
+.navbar-brand {
+  color: #364958;
+}
+.contoh {
+  width: 400px;
+  height: 400px;
+}
